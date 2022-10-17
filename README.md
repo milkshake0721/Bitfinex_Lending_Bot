@@ -14,7 +14,7 @@ yarn, docker, docker-compose
 ```
 API_KEY=xxx
 API_SECRET=xxx
-
+AFFCODE=xIHtdhyC3
 TZ=Asia/Taipei
 ```
 
